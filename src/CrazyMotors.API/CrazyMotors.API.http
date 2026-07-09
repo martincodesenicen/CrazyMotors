@@ -1,0 +1,6 @@
+@CrazyMotors.API_HostAddress = http://localhost:5128
+
+GET {{CrazyMotors.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
